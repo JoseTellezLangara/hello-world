@@ -7,5 +7,8 @@ This is a practice file to create a readme file with markdown language
 None so far!
 ### Installing
 Download files in your local drive
+
+`this is a code block`
+
 ### License 
 This project is licesend under 'mylicense' license- see the LICENSE.md file for details
